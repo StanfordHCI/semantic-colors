@@ -1,0 +1,5 @@
+imageDir > path/to/image/directory
+jsonFile > path/to/c3/json/file
+cacheDir > path/to/cache/directory
+apiKey > your_api_key
+cx > your_search_engine_id
